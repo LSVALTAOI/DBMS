@@ -1,0 +1,30 @@
+UserID,Username,pass,SubscriptionType,SubscriptionID
+13361601,Leo,Alpha1234,basic,1
+14661113,Mia,Password567,basic,1
+18418073,Isabella,Secure789,fan,2
+18983208,Felix,1234Beta567,fan,2
+29173027,Amelia,ABCdef890,"mega fan",3
+32262495,Daniel,9876Gamma,"mega fan",3
+33407476,William,Delta123,"mega fan annual",4
+37437849,Jack,789Alpha,"mega fan",3
+39357475,Noah,Epsilon456,"mega fan",3
+44001355,Mason,Beta5678,fan,2
+46691274,Grace,123Gamma456,fan,2
+50380543,Grace,Delta7890,basic,1
+54314743,Olivia,890Epsilon,"mega fan annual",4
+58192554,Sophia,Zeta1234,"mega fan",3
+62145320,Benjamin,5678Eta,fan,2
+66203440,Charlotte,Theta901,"mega fan",3
+68989430,Evelyn,234Iota,basic,1
+70201199,Daniel,Kappa5678,basic,1
+71920293,Owen,9012Lambda,"mega fan",3
+73249313,Felix,345Mu,basic,1
+78604411,Amelia,Nu678,basic,1
+79472726,Lucas,1234Xi,"mega fan annual",4
+81443060,Lily,567Omicron,"mega fan annual",4
+84259553,Evelyn,234Rho,"mega fan annual",4
+86246535,Henry,Pi890,"mega fan",3
+86465466,Penelope,Sigma567,fan,2
+88196267,Charlotte,890Tau,basic,1
+98526216,Katherine,Chi789,basic,1
+99802145,Madison,Upsilon123,fan,2
